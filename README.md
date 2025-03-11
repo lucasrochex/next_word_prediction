@@ -22,3 +22,10 @@ Then get the jupyter notebaook link by seeing the container logs:
 Side note - I had to run the following command the get GPU running:
 
 `python3 -m pip install 'tensorflow[and-cuda]'`
+
+
+#### Video with main steps for the project
+
+https://www.youtube.com/watch?v=El0klIh6Dg4
+
+#### Small demonstration of the LSTM predicting endings for some lines
