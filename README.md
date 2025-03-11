@@ -9,7 +9,8 @@ The models will be tailored for the use in completing Haiku poems.
 
 The base textual dataset is the "Haiku Dataset" that can be found at Kaggle at: https://www.kaggle.com/datasets/hjhalani30/haiku-dataset
 
-Launching the environment
+### Launching the environment
+
 Suggested way to run the project It is suggested to run with docker, using the base image tensorflow/tensorflow:-gpu-jupyter. Adapt the following command:
 
 `sudo docker run --name tensorflow-dev -p 8888:8888 -v {your_repository_dir}:/tf/classification  tensorflow/tensorflow:2.18.0-gpu-jupyter`
