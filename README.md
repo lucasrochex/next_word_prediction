@@ -29,3 +29,4 @@ Side note - I had to run the following command the get GPU running:
 https://www.youtube.com/watch?v=El0klIh6Dg4
 
 #### Small demonstration of the LSTM predicting endings for some lines
+![image](https://github.com/user-attachments/assets/4289f8ff-6692-4749-b189-43ee58a7be4d)
